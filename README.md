@@ -5,10 +5,9 @@ is a Python-based project for scraping and extracting data from websites. This t
 Prerequisites:
 
 Python 3.x installed on your system.
-
 Required libraries installed via pip.
 
 
 Installation
 
-Clone the Repository git clone 
+Clone the Repository git clone https://github.com/heetpadvi/DataMiner.git
